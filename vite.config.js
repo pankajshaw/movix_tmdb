@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/movix-tmdb-ps-app',
+  base: '/movix-tmdb/',
   plugins: [react()],
 })
